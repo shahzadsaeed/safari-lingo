@@ -1,17 +1,4 @@
 {
-  "name": "safariLingo",
-  "displayName": "safariLingo",
-  "expo": {
-    "name": "safariLingo",
-    "slug": "safariLingo",
-    "version": "1.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+  "name": "Quiz_Application",
+  "displayName": "Quiz_Application"
 }
